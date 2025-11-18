@@ -12,9 +12,22 @@ References were used during learning.
 - AI tools & general tech awareness  
 
 ## Repository Structure
-- `notes/` — theory notes, summaries, workshop learnings  
-- `practice/` — small beginner exercises (any language)  
-- `certificates/` — PDFs/images of completed courses  
+learning/
+│
+├── notes/
+├── practice/
+├── certificates/
+│
+├── temperature-converter/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+└── stopwatch/
+    ├── index.html
+    ├── style.css
+    └── script.js
+
 
 ## Goal
 To track my progress and stay consistent in learning.
